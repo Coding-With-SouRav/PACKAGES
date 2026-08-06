@@ -340,3 +340,7 @@ Instead of taking the value of the nearest pixel, it performs a weighted average
 
 1. First, it interpolates linearly along the horizontal direction ($x$-axis) between the top two pixels and the bottom two pixels.
 2. Next, it interpolates vertically ($y$-axis) between the two newly calculated intermediate points to compute the final destination intensity. This yields much smoother results than nearest-neighbor interpolation, minimizing pixelation.
+
+
+<!-- AUTO UPDATE -->
+Last maintenance: 2026-08-06 07:04 UTC
