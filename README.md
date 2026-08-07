@@ -343,4 +343,4 @@ Instead of taking the value of the nearest pixel, it performs a weighted average
 
 
 <!-- AUTO UPDATE -->
-Last maintenance: 2026-08-07 05:30 UTC
+Last maintenance: 2026-08-07 07:41 UTC
